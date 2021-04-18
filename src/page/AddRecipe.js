@@ -41,7 +41,7 @@ const AddRecipe=(props)=>{
       <Header/>
         <Styled.content>
           <Styled.inputBox>
-            <h4>[Edit Recipe]</h4>
+            <h4>[Edit Recipe]</h4> 
             <div>MENU: </div>
             <input type="text" size="70" placeholder="메뉴 이름" required></input>
 
